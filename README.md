@@ -10,4 +10,8 @@
 
 //while 이나 for문 로직을 짤때는 if문이 여러번 반복되는 작업이라고 생각하면 편리하다.
 
+```
+
+![js](https://user-images.githubusercontent.com/71861051/107952123-b24fe200-6fdc-11eb-9dba-a0b3c43c1eaf.jpg)
+
 
